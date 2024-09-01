@@ -46,12 +46,12 @@ body{
 @media only screen and (max-width: 480px){
     .digitalClock-container{
         width: 400px;
-        margin: 200px auto;
+        margin: 250px auto;
     }
 
     .digitalClock-container h2{
         margin: 50px 0px;
-        font-size: 25px;
+        font-size: 35px;
     }
      
     .time-container{
