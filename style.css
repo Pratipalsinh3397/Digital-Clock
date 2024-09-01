@@ -43,7 +43,7 @@ body{
     font-size: 80px;
 }
 
-@media only screen and (max-width: 550px){
+@media only screen and (max-width: 480px){
     .digitalClock-container{
         width: 400px;
         margin: 400px auto;
